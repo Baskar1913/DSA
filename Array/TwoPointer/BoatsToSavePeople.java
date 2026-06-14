@@ -2,7 +2,7 @@ package Arrays.TwoPointers;
 
 import java.util.Arrays;
 
-public class BoatsToSavePeople {
+public class boatsToSavePeople {
 
     public static int numRescueBoats(int[] people, int limit) {
 
