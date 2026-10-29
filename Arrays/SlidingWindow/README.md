@@ -348,6 +348,7 @@ Why `right - left + 1`? The valid subarrays ending at `right` are:
 
 There are exactly `right - left + 1` such subarrays. This counting trick is only correct when the problem's validity rule guarantees all those suffixes are valid.
 
+--- 
 
 # Time and Space Complexity
 
